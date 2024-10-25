@@ -10,7 +10,6 @@
 <div class="container">
   <h1>Hello World</h1>
 </div>
-
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.min.js"></script>
 </body>
 </html>
